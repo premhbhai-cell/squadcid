@@ -5786,3 +5786,23 @@ a:hover{color:#E10A17}
 .hv-card .hv-play{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%)}
 .cert-priority-card .cpc-icon-wrap{height:170px;min-height:170px;overflow:hidden;padding:8px}
 .cert-priority-card .cpc-icon-wrap img{max-height:150px}
+
+
+/* ===== National Vice President, leadership cards, document thumbnails (Nov 2026) ===== */
+.home-leader.home-leader-vp{background:#fff}
+.home-leader p a{color:#0A1590;font-weight:600}
+.cert-priority-card .cpc-thumb{display:flex;align-items:flex-start;justify-content:center;height:230px;padding:10px;overflow:hidden;text-decoration:none}
+.cert-priority-card .cpc-thumb img{width:100%;height:100%;max-height:none;object-fit:contain;object-position:top center;background:#fff;border:1px solid #eadfcf;border-radius:6px}
+.cert-card .img-wrap a{display:block;width:100%;height:100%}
+.cert-card .img-wrap a img{object-position:top center}
+.cert-card .doc-open-link{display:inline-block;margin-top:8px;font-size:12.5px;font-weight:700;color:#E10A17;text-decoration:none}
+.cert-card .doc-open-link:hover{color:#0A1590}
+.about-leaders-section{background:#F1F3F7}
+.about-leader-card{background:#fff;border:1px solid rgba(225,10,23,.14);border-radius:16px;overflow:hidden;box-shadow:0 10px 28px rgba(6,12,105,.08);text-align:center;height:100%;padding-bottom:22px}
+.about-leader-card .alc-photo{background:#060C69;padding:10px;border-bottom:3px solid #E10A17}
+.about-leader-card .alc-photo img{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;object-position:center top}
+.about-leader-card .alc-role{display:block;color:#E10A17;font-weight:800;letter-spacing:1.5px;text-transform:uppercase;font-size:.78rem;margin:18px 14px 6px}
+.about-leader-card h3{font-size:1.25rem;color:#060C69;margin:0 14px;line-height:1.3}
+.row.g-4>[class*="col-"]>.cert-priority-card{width:100%;min-width:0}
+.home-leader-vp .col-lg-7{padding-left:calc(var(--bs-gutter-x,1.5rem)*.5 + 28px)}
+@media(max-width:991.98px){.home-leader-vp .col-lg-7{padding-left:calc(var(--bs-gutter-x,1.5rem)*.5)}}

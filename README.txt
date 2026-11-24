@@ -46,3 +46,10 @@ FIX UPDATE (2026-11-24, later)
 - Hero: rebuilt as 3 CID/investigation banners (images/hero-cid-1..3.svg), responsive, no blank space on mobile.
 - Mobile: Login icon button added in header on all pages; empty menu items removed.
 - Cards: fixed column bug that broke text sections; unified card alignment (icons, titles, Read More, buttons) on all pages.
+
+
+NOV 24 2026 – OFFICIAL DOCUMENTS + NATIONAL VICE PRESIDENT
+- Added the 14 official PDFs under documents/ (Certificate of Incorporation, Section 8 Licence, PAN, TAN, 12A, 80G, MOA, AOA, INC-9, SPICe+ Part B, AGILE-PRO-S, MCA Master Data, 2 DIN letters) with first-page previews in images/doc-thumb-*.jpg.
+- Home page slider and Certificates page now show these real documents with working View / Download buttons. Old placeholder entries that did not match the real documents (Trust Deed, Udyam, old TAN/PAN numbers, etc.) were removed; ISO and pledge cards were kept.
+- Added the National Vice President section (S. GOWTHAM CHAND GULECHA) below the National President section on the home page, and on the Leadership and About pages.
+- National President name now shown in capitals: G. SUNIL GULECHA JAIN.
